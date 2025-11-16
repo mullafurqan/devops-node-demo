@@ -47,6 +47,13 @@ To stop:
 docker-compose down
 
 ---
+---
 ## Screenshots of port 8081:
 ![post 8081 running](./port-8081-running.jpeg)
+---
+---
+## Screenshots of port 8082:
+![post 8082 running](./port-8082-running.jpeg)
+
+---
 
