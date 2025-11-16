@@ -1,0 +1,27 @@
+version: "3"
+
+services:
+
+  web:
+
+    build: .
+
+    container_name: docker-node-app
+
+    ports:
+
+      - "8081:8081"
+
+    restart: always
+
+  web2:
+
+    build: .
+
+    container_name: docker-node-app2
+
+    ports:
+
+      - "8082:8081"
+
+    restart: always
