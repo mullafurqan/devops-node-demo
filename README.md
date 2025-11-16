@@ -48,5 +48,5 @@ docker-compose down
 
 ---
 ## Screenshots of port 8081:
-![posr 8081 running]_(./port-8081-running.jpeg)
+![post 8081 running](./port-8081-running.jpeg)
 
